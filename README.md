@@ -1,4 +1,3 @@
-# todoapp
 
 # TodoApp
 Projeto de teste para processo seletivo da Supero TI
